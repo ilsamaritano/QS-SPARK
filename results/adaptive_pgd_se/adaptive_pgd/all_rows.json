@@ -1,0 +1,1442 @@
+[
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 1.0,
+    "auroc": 1.0,
+    "eer": 0.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.2345833333333333,
+    "eer": 0.6541666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.03458333333333334,
+    "eer": 0.8816666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.009000000000000003,
+    "eer": 0.955
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.010333333333333333,
+    "eer": 0.95
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.03208333333333334,
+    "eer": 0.9041666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.82,
+    "auroc": 0.9820833333333334,
+    "eer": 0.020833333333333332
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0058333333333333345,
+    "eer": 0.9283333333333332
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.0016666666666666663,
+    "eer": 0.995
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.0,
+    "auroc": 0.7670000000000001,
+    "eer": 0.29500000000000004
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 8.333333333333303e-05,
+    "eer": 0.9908333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.001333333333333333,
+    "eer": 0.9866666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.005333333333333333,
+    "eer": 0.9733333333333334
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.0,
+    "auroc": 0.8025000000000001,
+    "eer": 0.28
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.04875,
+    "eer": 0.9583333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.04666666666666666,
+    "eer": 0.9583333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.05208333333333335,
+    "eer": 0.9533333333333334
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.05124999999999999,
+    "eer": 0.9583333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.058750000000000004,
+    "eer": 0.9583333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.0,
+    "auroc": 0.8920833333333333,
+    "eer": 0.19916666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0029166666666666672,
+    "eer": 0.9591666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.019166666666666672,
+    "eer": 0.9483333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.04041666666666668,
+    "eer": 0.9533333333333334
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.07875000000000001,
+    "eer": 0.9083333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.1,
+    "auroc": 0.9226666666666667,
+    "eer": 0.14083333333333334
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.0002500000000000002,
+    "eer": 0.995
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.001333333333333333,
+    "eer": 0.9775
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 1.0,
+    "auroc": 0.99975,
+    "eer": 0.004166666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.21966666666666668,
+    "eer": 0.7341666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.09783333333333333,
+    "eer": 0.8183333333333334
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.03533333333333333,
+    "eer": 0.8858333333333334
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.016583333333333325,
+    "eer": 0.9316666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.02924999999999999,
+    "eer": 0.9175
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 1.0,
+    "auroc": 1.0,
+    "eer": 0.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.3583333333333334,
+    "eer": 0.5
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.07875000000000001,
+    "eer": 0.8775
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.006666666666666666,
+    "eer": 0.9541666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.018750000000000003,
+    "eer": 0.9233333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.04791666666666667,
+    "eer": 0.8375
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.0,
+    "auroc": 0.5236666666666667,
+    "eer": 0.44999999999999996
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.00041666666666666626,
+    "eer": 0.9908333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.15,
+    "auroc": 0.8454166666666666,
+    "eer": 0.235
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.0033333333333333335,
+    "eer": 0.9591666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.0029166666666666672,
+    "eer": 0.985
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.0,
+    "auroc": 0.18958333333333333,
+    "eer": 0.8758333333333332
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.0024999999999999988,
+    "eer": 0.9541666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.004999999999999996,
+    "eer": 0.9791666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.023749999999999986,
+    "eer": 0.9233333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.05,
+    "auroc": 0.8478333333333333,
+    "eer": 0.21833333333333332
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.00016666666666666718,
+    "eer": 0.9866666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.0005000000000000004,
+    "eer": 0.9816666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.0006666666666666655,
+    "eer": 0.9908333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.98,
+    "auroc": 0.9994999999999999,
+    "eer": 0.01833333333333334
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.25225,
+    "eer": 0.6091666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.09008333333333332,
+    "eer": 0.8091666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.020916666666666667,
+    "eer": 0.9266666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.014249999999999995,
+    "eer": 0.9558333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.024833333333333325,
+    "eer": 0.9325
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 1.0,
+    "auroc": 1.0,
+    "eer": 0.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.001249999999999999,
+    "eer": 0.9641666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.001249999999999999,
+    "eer": 0.9641666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.007083333333333329,
+    "eer": 0.9741666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.012499999999999994,
+    "eer": 0.9591666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.44,
+    "auroc": 0.6945833333333334,
+    "eer": 0.38
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.00016666666666666606,
+    "eer": 0.9958333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.001416666666666665,
+    "eer": 0.9816666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.0,
+    "auroc": 0.575,
+    "eer": 0.41333333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.00125,
+    "eer": 0.99
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.002500000000000001,
+    "eer": 0.985
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.010000000000000002,
+    "eer": 0.9033333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.0,
+    "auroc": 0.13958333333333334,
+    "eer": 0.8966666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0004166666666666663,
+    "eer": 0.995
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.0004166666666666663,
+    "eer": 0.995
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.00375,
+    "eer": 0.9641666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.004999999999999998,
+    "eer": 0.9641666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.4,
+    "auroc": 0.9502499999999998,
+    "eer": 0.1275
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0006666666666666676,
+    "eer": 0.9766666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.00125,
+    "eer": 0.9866666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.006916666666666668,
+    "eer": 0.9775
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "gated",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.015083333333333344,
+    "eer": 0.9408333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.91,
+    "auroc": 0.9944999999999999,
+    "eer": 0.03666666666666668
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.2185,
+    "eer": 0.6691666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.061916666666666675,
+    "eer": 0.8908333333333334
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.035500000000000004,
+    "eer": 0.9291666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.03175,
+    "eer": 0.9183333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.05191666666666667,
+    "eer": 0.9291666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 1.0,
+    "auroc": 1.0,
+    "eer": 0.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.1225,
+    "eer": 0.7291666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.03125000000000001,
+    "eer": 0.9083333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.030000000000000002,
+    "eer": 0.9033333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.04083333333333333,
+    "eer": 0.9033333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.09666666666666668,
+    "eer": 0.8058333333333334
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.02,
+    "auroc": 0.6523333333333333,
+    "eer": 0.4
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.00033333333333333327,
+    "eer": 0.995
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.07,
+    "auroc": 0.8754166666666667,
+    "eer": 0.15833333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.0,
+    "auroc": 0.6675,
+    "eer": 0.42333333333333334
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0004166666666666663,
+    "eer": 0.995
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.009166666666666662,
+    "eer": 0.9691666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.02833333333333333,
+    "eer": 0.9233333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.054999999999999986,
+    "eer": 0.8725
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.99,
+    "auroc": 0.9994999999999999,
+    "eer": 0.00916666666666667
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.05,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.1,
+    "trr": 0.0,
+    "auroc": 0.0,
+    "eer": 1.0
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.2,
+    "trr": 0.0,
+    "auroc": 0.0002500000000000002,
+    "eer": 0.9908333333333333
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "product",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.3,
+    "trr": 0.0,
+    "auroc": 0.0005000000000000004,
+    "eer": 0.995
+  }
+]

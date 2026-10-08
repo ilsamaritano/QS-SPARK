@@ -1,0 +1,13 @@
+backbone,fusion,satellite,seed,eps,trr,auroc,eer
+vit_small,classical,Gaofen12,42,0.0,1.0,1.0,0.0
+vit_small,classical,Gaofen12,42,0.02,0.0,0.02325,0.9233333333333333
+vit_small,classical,Gaofen12-02,42,0.0,1.0,1.0,0.0
+vit_small,classical,Gaofen12-02,42,0.02,0.1,0.61,0.4083333333333333
+vit_small,classical,Gaofen3,42,0.0,0.97,0.9975,0.01833333333333334
+vit_small,classical,Gaofen3,42,0.02,0.01,0.44841666666666663,0.5408333333333333
+vit_small,classical,RCM1,42,0.0,1.0,1.0,0.0
+vit_small,classical,RCM1,42,0.02,0.09,0.5495833333333333,0.4083333333333333
+vit_small,classical,RCM3,42,0.0,1.0,1.0,0.0
+vit_small,classical,RCM3,42,0.02,0.0,0.3879166666666667,0.5916666666666667
+vit_small,classical,Sentinel1A,42,0.0,1.0,1.0,0.0
+vit_small,classical,Sentinel1A,42,0.02,0.01,0.15516666666666667,0.7641666666666667

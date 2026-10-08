@@ -1,0 +1,122 @@
+[
+  {
+    "backbone": "vit_small",
+    "fusion": "classical",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 1.0,
+    "auroc": 1.0,
+    "eer": 0.0
+  },
+  {
+    "backbone": "vit_small",
+    "fusion": "classical",
+    "satellite": "Gaofen12",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.02325,
+    "eer": 0.9233333333333333
+  },
+  {
+    "backbone": "vit_small",
+    "fusion": "classical",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 1.0,
+    "auroc": 1.0,
+    "eer": 0.0
+  },
+  {
+    "backbone": "vit_small",
+    "fusion": "classical",
+    "satellite": "Gaofen12-02",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.1,
+    "auroc": 0.61,
+    "eer": 0.4083333333333333
+  },
+  {
+    "backbone": "vit_small",
+    "fusion": "classical",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 0.97,
+    "auroc": 0.9975,
+    "eer": 0.01833333333333334
+  },
+  {
+    "backbone": "vit_small",
+    "fusion": "classical",
+    "satellite": "Gaofen3",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.01,
+    "auroc": 0.44841666666666663,
+    "eer": 0.5408333333333333
+  },
+  {
+    "backbone": "vit_small",
+    "fusion": "classical",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 1.0,
+    "auroc": 1.0,
+    "eer": 0.0
+  },
+  {
+    "backbone": "vit_small",
+    "fusion": "classical",
+    "satellite": "RCM1",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.09,
+    "auroc": 0.5495833333333333,
+    "eer": 0.4083333333333333
+  },
+  {
+    "backbone": "vit_small",
+    "fusion": "classical",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 1.0,
+    "auroc": 1.0,
+    "eer": 0.0
+  },
+  {
+    "backbone": "vit_small",
+    "fusion": "classical",
+    "satellite": "RCM3",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.0,
+    "auroc": 0.3879166666666667,
+    "eer": 0.5916666666666667
+  },
+  {
+    "backbone": "vit_small",
+    "fusion": "classical",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.0,
+    "trr": 1.0,
+    "auroc": 1.0,
+    "eer": 0.0
+  },
+  {
+    "backbone": "vit_small",
+    "fusion": "classical",
+    "satellite": "Sentinel1A",
+    "seed": 42,
+    "eps": 0.02,
+    "trr": 0.01,
+    "auroc": 0.15516666666666667,
+    "eer": 0.7641666666666667
+  }
+]

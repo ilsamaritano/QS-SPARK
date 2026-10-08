@@ -1,0 +1,46 @@
+[
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen12",
+    "train_auroc": 0.4715277777777778,
+    "replay_auroc": 0.9852916666666667,
+    "replay_trr": 0.6433333333333333,
+    "replay_eer": 0.06916666666666665,
+    "ovr_auroc": 0.4715277777777778,
+    "ovr_tar": 0.016666666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "classical",
+    "satellite": "Gaofen3",
+    "train_auroc": 0.42006944444444444,
+    "replay_auroc": 0.9669444444444444,
+    "replay_trr": 0.745,
+    "replay_eer": 0.12416666666666665,
+    "ovr_auroc": 0.42006944444444444,
+    "ovr_tar": 0.025
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen12",
+    "train_auroc": 0.4835416666666667,
+    "replay_auroc": 0.9976527777777777,
+    "replay_trr": 0.9483333333333334,
+    "replay_eer": 0.027500000000000014,
+    "ovr_auroc": 0.4835416666666667,
+    "ovr_tar": 0.016666666666666666
+  },
+  {
+    "backbone": "se_resnet34",
+    "fusion": "sum",
+    "satellite": "Gaofen3",
+    "train_auroc": 0.4907986111111111,
+    "replay_auroc": 0.9919583333333334,
+    "replay_trr": 0.63,
+    "replay_eer": 0.03666666666666668,
+    "ovr_auroc": 0.4907986111111111,
+    "ovr_tar": 0.008333333333333333
+  }
+]
